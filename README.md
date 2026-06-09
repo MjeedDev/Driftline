@@ -9,7 +9,7 @@ A Unity arcade driving game featuring procedural platform generation and tap-bas
 ## Gameplay
 
 <p align="center">
-  <img src="media/gameplay.gif" alt="Driftline Gameplay" width="100%">
+  <img src="media/gameplay.gif" alt="Driftline Gameplay" width="50%">
 </p>
 
 ---
